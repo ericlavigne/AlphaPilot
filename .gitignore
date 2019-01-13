@@ -1,0 +1,12 @@
+.catkin_tools
+build
+devel
+logs
+src/mav_comm
+src/mavlink
+src/mavros
+src/rotors_simulator
+src/rotors_hil.rosinstall
+src/.rosinstall
+*.bak
+
