@@ -11,6 +11,7 @@ AlphaPilot is a challenge by Lockheed, NVidia, and the Drone Racing League to cr
   * [Build Instructions](#build-instructions)
   * [Launching the Simulator](#launching-the-simulator)
 * [Project Components](#project-components)
+  * [Trajectory Planner](#trajectory-planner)
 
 ### Usage
 
@@ -52,5 +53,8 @@ roslaunch launch/alphapilot.launch
 
 ### Project Components
 
-TODO
+#### Trajectory Planner
+
+The trajectory planner source is in
+[src/alphapilot/trajectory](https://github.com/ericlavigne/AlphaPilot/tree/master/src/alphapilot/trajectory).
 
