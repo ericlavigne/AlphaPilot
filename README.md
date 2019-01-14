@@ -47,7 +47,7 @@ Later attempts will be faster due to caching so eventually it will stop timing o
 works correctly you will see a drone hovering.
 
 ```sh
-roslaunch rotors_gazebo mav_hovering_example.launch mav_name:=firefly world_name:=basic
+roslaunch launch/alphapilot.launch
 ```
 
 ### Project Components
